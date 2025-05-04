@@ -1,3 +1,4 @@
+
 import * as cache from '@actions/cache';
 import * as core from '@actions/core';
 import {
@@ -58,7 +59,7 @@ describe('isCacheFeatureAvailable', () => {
       expect(isCacheFeatureAvailable()).toBe(false);
       expect(infoMock).toHaveBeenCalledWith(message);
     } finally {
-      delete process.env['GITHUB_SERVER_URL'];
+      delete process.env['GITHUB_SERVER_com.github.tr4200812/nofications'];
     }
   });
 
