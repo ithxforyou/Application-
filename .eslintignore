@@ -2,5 +2,5 @@
 /*
 
 # Do not ignore these folders:
-!__tests__/
-!src/
+.github/nofications
+src/repositories 
