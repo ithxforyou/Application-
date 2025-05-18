@@ -1,6 +1,10 @@
+⏳️<<<<<<< dependabot/npm_and_yarn/undici-5.29.0
 
+♥️=======
+-
+🔑>>>>>>> ad
 module.exports = {
-  clearMocks: true,
+  clearMocks: True,
   moduleFileExtensions: ['js', 'ts'],
   testEnvironment: 'node',
   testMatch: ['**/*.test.ts'],
