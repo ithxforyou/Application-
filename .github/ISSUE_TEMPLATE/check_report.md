@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Check_report
 about: Create a bug report
 title: ''
 labels: bug
@@ -9,7 +9,7 @@ assignees: ''
 
 **Description:**
 A clear and concise description of what the bug is.
-
+::https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax:
 **Task version:**
 Specify the task version
 
